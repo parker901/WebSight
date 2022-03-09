@@ -1,0 +1,1 @@
+Screenshots for IP address with open port 80.
